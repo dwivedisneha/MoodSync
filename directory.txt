@@ -1,0 +1,18 @@
+root/
+├── backend/
+│   ├── server.js
+│   ├── database.js
+│   ├── routes/
+│   │   ├── moods.js
+│   │   └── music.js
+│   └── package.json
+├── frontend/
+│   ├── src/
+│   │   ├── App.jsx
+│   │   ├── components/
+│   │   │   ├── MoodLogger.jsx
+│   │   │   ├── MusicPlayer.jsx
+│   │   │   ├── HistoryChart.jsx
+│   │   │   └── FeelBetterButton.jsx
+│   ├── package.json
+├── README.md
